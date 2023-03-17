@@ -10,4 +10,4 @@ Diese Daten sind nicht Personen bezogen und somit nicht besonders schützenswert
 License
 Data files © Original Authors
 
-Data sind von https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency 
+Data sind von https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency.
